@@ -1,0 +1,3 @@
+/Users/piotrwesoly/Desktop/OOP/Labs/05-Exercice/Ex5.4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/piotrwesoly/Desktop/OOP/Labs/05-Exercice/Ex5.4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/piotrwesoly/Desktop/OOP/Labs/05-Exercice/Ex5.4/cmake-build-debug/CMakeFiles/Ex5_4.dir
